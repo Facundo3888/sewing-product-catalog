@@ -1,0 +1,26 @@
+[
+{
+    "id": 1,
+    "titulo": "Revistero de mimbre",
+    "precio": 8500,
+    "descripcion": "Revistero tejido a mano, ideal para living.",
+    "imagen": "img/revistero1.jpg",
+    "categoria": "revisteros"
+},
+{
+    "id": 2,
+    "titulo": "Revistero azul",
+    "precio": 5000,
+    "descripcion": "Revistero de color azul",
+    "imagen": "img/revistero2.jpg",
+    "categoria": "revisteros"
+},
+{
+    "id": 2,
+    "titulo": "Revistero rojo",
+    "precio": 5000,
+    "descripcion": "Revistero de color rojo",
+    "imagen": "img/revistero3.jpg",
+    "categoria": "revisteros"
+}
+]
